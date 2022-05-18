@@ -1,0 +1,20 @@
+body{font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Verdana, Geneva, Tahoma, sans-serif,
+     ;text-align: center;}
+ 
+.letras {height: 8rem;padding: 3rem;font-size: 1rem;
+    background-size:contain; background-position: center;
+    background-image: url("/img/inmobiliaria.jpg");}
+
+.letras h1 {margin: 0px;font-weight: 400;} 
+
+.Casa {width: 80%;margin: auto;}
+
+.Casa td {width: 50%;padding: 2rem;}
+
+.Casa img {width: 100%;border: solid 1px #16b916;}
+
+.Pie{height: 3rem;line-height: 3rem;
+    background-color: cornflowerblue;
+    color: white; text-align: center;font-weight: 900;}
+    
